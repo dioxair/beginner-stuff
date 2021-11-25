@@ -1,2 +1,2 @@
 # beginner-stuff
-All of my stuff that I used as learning
+All of my stuff that I made along my self-taught full stack journey
